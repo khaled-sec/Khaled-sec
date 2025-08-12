@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Khaled 👋
 
-<!--
-**khaled-sec/Khaled-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate cybersecurity enthusiast with a background in Computer Information Systems.  
+Currently focused on developing skills in SOC operations, incident response, and threat hunting through hands-on labs and certifications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Certified in Security+ and eJPT.  
+- Experienced with network monitoring, log analysis, and vulnerability assessments.  
+- Skilled in Python programming and web application security testing.  
+- Always eager to learn new technologies and improve defensive security strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies
+- **Security Tools:** Wireshark, Nmap, Splunk, Burp Suite  
+- **Languages:** Python, ASP.NET  
+- **Platforms:** Windows, Linux  
+- **Concepts:** SOC Analysis, Incident Response, Cyber Defense Framework
+
+## 📂 Projects & Labs
+-
+-
+## 📫 Get in Touch
+- LinkedIn: [linkedin.com/in/khaledalharbi35](https://www.linkedin.com/in/khaledalharbi35/)
+
+
+Thanks for visiting my GitHub profile!
