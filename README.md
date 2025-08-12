@@ -10,7 +10,7 @@ Currently focused on developing skills in SOC operations, incident response, and
 - Always eager to learn new technologies and improve defensive security strategies.
 
 ## 🛠 Tools & Technologies
-- **Security Tools:** Wireshark, Nmap, Splunk, Burp Suite  
+- **Security Tools:** Wireshark, Nmap, Burp Suite  
 - **Languages:** Python, ASP.NET  
 - **Platforms:** Windows, Linux  
 - **Concepts:** SOC Analysis, Incident Response, Cyber Defense Framework
