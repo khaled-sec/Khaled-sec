@@ -25,7 +25,7 @@ I hold multiple industry certifications and build hands-on labs to sharpen my bl
 - **Concepts:** SOC Analysis, Incident Response, Cyber Defense Framework
 
 ## 📂 Projects & Labs
--[ٍSoc_labs](./Exercise_1_Windows_Local_Logging.md)
+-   [ٍSoc_labs](./Exercise_1_Windows_Local_Logging.md)
 -
 ## 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/khaledalharbi35](https://www.linkedin.com/in/khaledalharbi35/)
