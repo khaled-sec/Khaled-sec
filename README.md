@@ -1,17 +1,26 @@
 # Hi, I'm Khaled 👋
 
-I'm a passionate cybersecurity enthusiast with a background in Computer Information Systems.  
-Currently focused on developing skills in SOC operations, incident response, and threat hunting through hands-on labs and certifications.
+I'm a cybersecurity professional focused on SOC operations, threat hunting, and incident response.
+I hold multiple industry certifications and build hands-on labs to sharpen my blue team skills.
 
 ## 🚀 About Me
-- Certified in Security+ and eJPT.  
+- B.S. in Computer Information Systems
 - Experienced with network monitoring, log analysis, and vulnerability assessments.  
-- Skilled in Python programming and web application security testing.  
+- Actively building and documenting a Home SOC Lab
 - Always eager to learn new technologies and improve defensive security strategies.
+
+  
+## 🏅 Certifications
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA CySA+
+- eJPT — eLearnSecurity Junior Penetration Tester
+- CSA — Certified SOC Analyst
+- eCTHP (in progress) — eLearnSecurity Certified Threat Hunting Professional
 
 ## 🛠 Tools & Technologies
 - **Security Tools:** Wireshark, Nmap, Burp Suite  
-- **Languages:** Python, ASP.NET  
+- **SIEM & Monitoring:** Splunk (log analysis, alert correlation)
 - **Platforms:** Windows, Linux  
 - **Concepts:** SOC Analysis, Incident Response, Cyber Defense Framework
 
