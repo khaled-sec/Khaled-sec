@@ -26,7 +26,7 @@ I hold multiple industry certifications and build hands-on labs to sharpen my bl
 
 ## 📂 Projects & Labs
 -   [SOC-Labs](https://github.com/khaled-sec/SOC-Labs)
--
+
 ## 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/khaledalharbi35](https://www.linkedin.com/in/khaledalharbi35/)
 
