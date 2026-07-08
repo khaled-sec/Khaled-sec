@@ -16,7 +16,7 @@ I hold multiple industry certifications and build hands-on labs to sharpen my bl
 - CompTIA CySA+
 - eJPT — eLearnSecurity Junior Penetration Tester
 - CSA — Certified SOC Analyst
-- eCTHP (in progress) — eLearnSecurity Certified Threat Hunting Professional
+- eCTHP — eLearnSecurity Certified Threat Hunting Professional
 
 ## 🛠 Tools & Technologies
 - **Security Tools:** Wireshark, Nmap, Burp Suite  
