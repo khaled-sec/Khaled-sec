@@ -25,7 +25,8 @@ I hold multiple industry certifications and build hands-on labs to sharpen my bl
 - **Concepts:** SOC Analysis, Incident Response, Cyber Defense Framework
 
 ## 📂 Projects & Labs
--   [SOC-Labs](https://github.com/khaled-sec/SOC-Labs)
+- [Home-SOC-Environment](https://github.com/khaled-sec/Home-SOC-Environment) — A full SOC environment I built from scratch (Windows Server + AD DS, Windows 10, Kali Linux, Splunk), from network design through attack simulation and detection.
+- [SOC-Labs](https://github.com/khaled-sec/SOC-Labs) — Hands-on labs from well-known platforms (TryHackMe, EC-Council Labs, etc.), documenting attack detection and log analysis exercises.
 
 ## 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/khaledalharbi35](https://www.linkedin.com/in/khaledalharbi35/)
